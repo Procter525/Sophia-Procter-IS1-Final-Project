@@ -18,3 +18,10 @@
   src: url('../fonts/teko-v23-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+h1 {
+  font-family: 'Unlock';
+}
+
+p {
+  font-family: 'Teko';
+}
