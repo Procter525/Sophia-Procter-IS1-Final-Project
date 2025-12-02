@@ -1,5 +1,20 @@
 /* styles.css */
 
-* {
-	font-family: Arial;
+/* unlock-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Unlock';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/unlock-v28-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
+
+/* teko-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Teko';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/teko-v23-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
