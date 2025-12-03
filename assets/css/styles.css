@@ -65,6 +65,11 @@ h1 {
   font-family: 'Unlock';
 }
 
+h6 {
+      font-size: 24px;
+      line-height: 0.5;
+}
+
 p {
   font-family: 'Teko';
 }
