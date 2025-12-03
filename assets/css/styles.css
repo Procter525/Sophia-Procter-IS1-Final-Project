@@ -19,7 +19,7 @@
 }
 
 body {
-      background-color: #719b6c;
+      background-color: #768fab;
       margin: 0 auto;
 }
 
@@ -31,8 +31,8 @@ article {
 }
 
 header {
-      background-color: #131713;
-      border-bottom: 3px solid #131713;
+      background-color: #586b81;
+      border-bottom: 3px solid #586b81;
       font-family: 'Unlock', sans-serif;
       color: #ffffff;
       position: fixed;
