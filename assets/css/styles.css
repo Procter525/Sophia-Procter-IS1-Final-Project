@@ -61,8 +61,13 @@ a {
       color: #ffffff;
 }
 
-h1 {
+h1, h2, h3 {
   font-family: 'Unlock';
+}
+
+h1 {
+      padding-top: 50px;
+      font-size: 80px;
 }
 
 h6 {
