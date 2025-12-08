@@ -98,8 +98,8 @@ p {
       margin: 0 auto;
       width: 85%;
       display: grid;
-      grid-template-columns: 25% 25% 2fr 1fr;
-      grid-template-rows: 650px 650px;
+      grid-template-columns: 30% 30% 2fr 1fr;
+      grid-template-rows: 350px 350px;
       gap: 10px 15px;
 }
 
