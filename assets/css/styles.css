@@ -99,7 +99,7 @@ p {
       width: 85%;
       display: grid;
       grid-template-columns: 30% 30% 2fr 1fr;
-      grid-template-rows: 350px 350px;
+      grid-template-rows: 310px 310px;
       gap: 10px 15px;
 }
 
