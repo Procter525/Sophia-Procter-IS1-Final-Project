@@ -95,9 +95,9 @@ p {
 }
 
 .grid {
-      margin: 0 auto;
-      align-items: center;
-      justify-items: center;
+      margin: 0 auto !important;
+      align-items: center !important;
+      justify-items: center !important;
       width: 85%;
       display: grid;
       grid-template-columns: 30% 30% 2fr 1fr;
