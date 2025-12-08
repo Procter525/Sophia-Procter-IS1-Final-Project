@@ -96,7 +96,7 @@ p {
 
 .grid {
       margin: 0 auto;
-      justify-items: center;
+      justify-content: center;
       width: 85%;
       display: grid;
       grid-template-columns: 30% 30% 2fr 1fr;
