@@ -105,10 +105,10 @@ p {
       gap: 10px 15px;
 }
 
-.box {
+.box-audio, .box-video, .box-misc {
       margin: 0 auto;
-  border-radius: 5px;
-  border: 2px #586b81 solid;
+      border-radius: 5px;
+      border: 2px #586b81 solid;
 }
 
 .box-audio a, .box-video a, .box-misc a {
