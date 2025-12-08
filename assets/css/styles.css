@@ -111,6 +111,13 @@ p {
   border: 2px #586b81 solid;
 }
 
+.box-audio a:hover {
+        background: white;
+        border: 1px solid #586b81;
+        color: #586b81;
+        transform: scale(1.5);
+}
+
 footer {
       align: center;
       font-family: 'Teko', sans-serif;
