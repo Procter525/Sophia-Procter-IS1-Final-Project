@@ -63,7 +63,7 @@ header .gcse-searchbox-only {
       justify-content: right;
 }
 
-a {
+header a {
       text-decoration: none;
       color: #ffffff;
 }
@@ -112,9 +112,8 @@ p {
 }
 
 .box-audio a:hover {
-        background: white;
-        border: 1px solid #586b81;
-        color: #586b81;
+        border: 1px solid #ffffff;
+        color: #ffffff;
         transform: scale(1.5);
 }
 
