@@ -127,19 +127,19 @@ p {
 .box-audio a:hover {
         border: 1px solid #c3c3c3;
         color: #ffffff;
-        transform: scale(1.5);
+        transform: scale(2);
 }
 
 .box-video a:hover {
         border: 1px solid #c3c3c3;
         color: #ffffff;
-        transform: scale(1.5);
+        transform: scale(2);
 }
 
 .box-misc a:hover {
         border: 1px solid #c3c3c3;
         color: #ffffff;
-        transform: scale(1.5);
+        transform: scale(2);
 }
 
 footer {
