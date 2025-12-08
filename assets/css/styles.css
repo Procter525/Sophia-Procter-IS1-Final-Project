@@ -125,19 +125,16 @@ p {
 }
 
 .box-audio a:hover {
-        border: 1px solid #ffffff;
         color: #ffffff;
         transform: scale(1.5);
 }
 
 .box-video a:hover {
-        border: 1px solid #ffffff;
         color: #ffffff;
         transform: scale(1.5);
 }
 
 .box-misc a:hover {
-        border: 1px solid #ffffff;
         color: #ffffff;
         transform: scale(1.5);
 }
