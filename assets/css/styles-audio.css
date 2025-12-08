@@ -121,6 +121,13 @@ p {
   font-size: 35px;
 }
 
+aside {
+      width: 30%;
+      float: right;
+      margin: 5px;
+      padding: 5px;
+}
+
 footer {
       align: center;
       font-family: 'Teko', sans-serif;
