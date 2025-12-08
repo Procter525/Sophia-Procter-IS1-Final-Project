@@ -111,6 +111,11 @@ p {
   border: 2px #586b81 solid;
 }
 
+.box a {
+  text-decoration: none;
+  color: #586b81;
+}
+
 .box-audio a:hover {
         border: 1px solid #ffffff;
         color: #ffffff;
