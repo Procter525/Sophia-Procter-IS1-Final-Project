@@ -111,7 +111,7 @@ p {
   border: 2px #586b81 solid;
 }
 
-.box a {
+.box-audio a, .box-video a, .box-misc a {
   text-decoration: none;
   color: #586b81;
 }
