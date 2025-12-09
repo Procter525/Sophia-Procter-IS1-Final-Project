@@ -132,8 +132,8 @@ aside {
 .pockets {
 	margin: 0 auto;
       display: grid;
-      grid-template-columns: 1fr;
-  	  grid-template-rows: repeat(13, 1fr);
+      grid-template-columns: 95%;
+  	  grid-template-rows: repeat(13, 550px);
  	  gap: 10px 15px;
 }
 
@@ -141,6 +141,10 @@ aside {
 	margin: 0 auto;
 	border-radius: 5px;
 	border: 2px white solid;
+}
+
+.box first-pocket {
+	grid-row: 1 / 2;
 }
 
 footer {
