@@ -114,6 +114,43 @@ p {
   font-size: 35px;
 }
 
+h6 {
+      font-family: 'Unlock';
+      color: #ffffff;
+      font-size: 30px;
+      text-decoration: none;
+      text-shadow: 1px 1px 2px #586b81;
+}
+
+p {
+  font-family: 'Teko';
+  font-size: 35px;
+}
+
+aside {
+      width: 30%;
+      float: right;
+      margin: 5px;
+      padding: 5px;
+}
+
+.pockets {
+	margin: 0 auto;
+      display: grid;
+     /* grid-template-columns: repeat(1, 700px);
+  	  grid-template-rows: repeat(13, 550px); */
+	grid-template-columns: 1fr 1 fr 1fr;
+    grid-template-rows: 950px 950px;
+ 	  gap: 10px 15px;
+	justify-items: stretch;
+}
+
+.box {
+	margin: 0 auto;
+	border-radius: 5px;
+	border: 2px white solid;
+}
+
 footer {
       align: center;
       font-family: 'Teko', sans-serif;
