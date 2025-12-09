@@ -131,6 +131,13 @@ aside {
 
 .pockets {
       display: grid;
+      width: 95%;
+}
+
+.box {
+	margin: 0 auto;
+	border-radius: 5px;
+	border: 2px white solid;
 }
 
 footer {
