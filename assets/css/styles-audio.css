@@ -129,6 +129,10 @@ aside {
       padding: 5px;
 }
 
+.pockets {
+      display: grid;
+}
+
 footer {
       align: center;
       font-family: 'Teko', sans-serif;
