@@ -154,6 +154,7 @@ aside {
 
 .box second-pocket-mesh {
 	grid-row: 3 / 4;
+	grid-column: 1 / span 2;
 }
 
 .box third-pocket {
