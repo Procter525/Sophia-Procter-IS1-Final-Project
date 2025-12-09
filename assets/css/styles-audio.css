@@ -132,8 +132,10 @@ aside {
 .pockets {
 	margin: 0 auto;
       display: grid;
-      grid-template-columns: repeat(1, 700px);
-  	  grid-template-rows: repeat(13, 550px);
+     /* grid-template-columns: repeat(1, 700px);
+  	  grid-template-rows: repeat(13, 550px); */
+	grid-template-columns: 1fr 1 fr 1fr;
+    grid-template-rows: 750px 750px;
  	  gap: 10px 15px;
 }
 
