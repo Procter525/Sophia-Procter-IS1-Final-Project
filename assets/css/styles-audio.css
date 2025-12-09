@@ -147,6 +147,54 @@ aside {
 	grid-row: 1 / 2;
 }
 
+.box second-pocket {
+	grid-row: 2 / 3;
+}
+
+.box second-pocket-mesh {
+	grid-row: 3 / 4;
+}
+
+.box third-pocket {
+	grid-row: 4 / 5;
+}
+
+.box fourth-pocket {
+	grid-row: 5 / 6;
+}
+
+.box fourth-pocket-mesh1 {
+	grid-row: 6 / 7;
+}
+
+.box fourth-pocket-mesh2 {
+	grid-row: 7 / 8;
+}
+
+.box fourth-pocket-mesh3 {
+	grid-row: 8 / 9;
+}
+
+.box fourth-pocket-mesh4 {
+	grid-row: 9 / 10;
+}
+
+.box fourth-pocket-mesh5 {
+	grid-row: 10 / 11;
+}
+
+.box fourth-pocket-velcroflap1 {
+	grid-row: 11 / 12;
+}
+
+.box fourth-pocket-velcroflap2 {
+	grid-row: 12 / 13;
+}
+
+.box fifth-pocket {
+	grid-row: 13 / end;
+}
+
 footer {
       align: center;
       font-family: 'Teko', sans-serif;
