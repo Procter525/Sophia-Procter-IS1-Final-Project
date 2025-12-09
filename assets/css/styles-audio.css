@@ -146,6 +146,7 @@ aside {
 	border: 2px white solid;
 }
 
+/* umm, i'll just comment this out for now
 .box first-pocket {
 	grid-row: 1 / 2;
 	grid-column: 1 / span 2;
@@ -199,6 +200,7 @@ aside {
 .box fifth-pocket {
 	grid-row: 13 / end;
 }
+*/
 
 footer {
       align: center;
