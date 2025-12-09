@@ -133,7 +133,7 @@ aside {
 	margin: 0 auto;
       display: grid;
       grid-template-columns: 95%;
-  	  grid-template-rows: 750px 750px;
+  	  grid-template-rows: 95%;
  	  gap: 10px 15px;
 }
 
