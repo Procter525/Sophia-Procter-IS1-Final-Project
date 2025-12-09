@@ -130,6 +130,8 @@ aside {
 }
 
 .pockets {
+	margin: 0 auto;
+	width: 95%;
       display: grid;
       grid-template-columns: 1fr 1 fr 1fr;
   	  grid-template-rows: 750px 750px;
