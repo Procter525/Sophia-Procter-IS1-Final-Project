@@ -115,6 +115,10 @@ p {
   font-size: 35px;
 }
 
+.lineup {
+      justify-content: center;
+}
+
 .lineup ul {
       list-style: none;
       display: flex;
