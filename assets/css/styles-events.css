@@ -115,6 +115,25 @@ p {
   font-size: 35px;
 }
 
+.lineup ul {
+      list-style: none;
+      display: flex;
+      justify-content: left;
+      flex-direction: row;
+      gap: 40px;
+}
+
+.lineup ul li {
+      font-size: 40px;
+      text-shadow: 1px 1px 2px #000000;
+}
+
+.lineup a {
+      text-decoration: none;
+      color: #ffffff;
+      text-shadow: 1px 1px 2px #586b81;
+}
+
 footer {
       align: center;
       font-family: 'Teko', sans-serif;
