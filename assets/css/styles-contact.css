@@ -148,3 +148,12 @@ footer {
         color: #586b81;
       transform: scale(1.5);
 }
+
+section {
+      font-family: 'East Sea Dokdo', sans-serif;
+      font-size: 45px;
+}
+
+form hr {
+      width: 15%;
+}
