@@ -163,6 +163,14 @@ p {
         transform: scale(2);
 }
 
+.list {
+      align: left;
+}
+
+.list ul {
+      font-family: 'Teko', sans-serif;
+}
+
 footer {
       align: center;
       font-family: 'Teko', sans-serif;
