@@ -140,7 +140,6 @@ p {
 
 .request {
       font-family: 'Teko', sans-serif;
-      border: 1px solid #ffffff;
       padding: 40px 0px;
       position: relative;
       text-align: center;
@@ -150,6 +149,7 @@ p {
 
 .request a {
        background: #586b81;
+      border: 1px solid #ffffff;
         color: #ffffff;
         display: inline-block;
         margin: 10px;
