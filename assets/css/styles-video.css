@@ -128,7 +128,7 @@ p {
 }
 
 aside {
-      width: 30%;
+      width: 200px;
       float: right;
       margin: 5px;
       padding: 5px;
@@ -139,10 +139,10 @@ aside {
       display: grid;
      /* grid-template-columns: repeat(1, 700px);
   	  grid-template-rows: repeat(13, 550px); */
-	grid-template-columns: 1fr 1 fr 1fr;
-    grid-template-rows: 950px 950px;
+	grid-template-columns: 700px;
+    grid-template-rows: repeat(13, 550px);
  	  gap: 10px 15px;
-	justify-items: stretch;
+	justify-items: center;
 }
 
 .pockets ul {
