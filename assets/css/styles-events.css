@@ -116,9 +116,9 @@ p {
 }
 
 .events ul {
-      align: left;
+      text-align: left;
       font-family: 'Teko';
-      font-size: 30px;
+      font-size: 25px;
 }
 
 .lineup ul {
