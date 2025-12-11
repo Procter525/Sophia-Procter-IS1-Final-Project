@@ -170,6 +170,7 @@ p {
 .list ul {
       font-family: 'Teko', sans-serif;
       font-size: 30px;
+      list-style: none;
 }
 
 footer {
