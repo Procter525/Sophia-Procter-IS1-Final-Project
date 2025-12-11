@@ -114,6 +114,15 @@ p {
   font-size: 35px;
 }
 
+.list {
+      align-content: left;
+}
+
+.list ul {
+      font-family: 'Teko', sans-serif;
+      font-size: 30px;
+}
+
 footer {
       align: center;
       font-family: 'Teko', sans-serif;
