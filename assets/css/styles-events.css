@@ -150,6 +150,25 @@ p {
       color: #ffffff;
 }
 
+.request a {
+       background: #c3c3c3;
+        border: 1px solid white;
+        border-radius: 3px;
+        color: #586b81;
+        display: inline-block;
+        margin: 10px;
+        padding: 14px;
+        text-decoration: none;
+       font-size: 35px;
+}
+
+reuest a:hover {
+        background: white;
+        border: 1px solid #586b81;
+        color: #586b81;
+        transform: scale(1.5);
+}
+
 footer {
       align: center;
       font-family: 'Teko', sans-serif;
