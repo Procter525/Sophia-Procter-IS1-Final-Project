@@ -135,7 +135,7 @@ aside {
      /* grid-template-columns: repeat(1, 700px);
   	  grid-template-rows: repeat(13, 550px); */
 	grid-template-columns: 700px;
-    grid-template-rows: 950px;
+    grid-template-rows: 550px;
  	  gap: 10px 15px;
 	justify-items: stretch;
 }
