@@ -134,6 +134,11 @@ p {
       text-shadow: 1px 1px 2px #586b81;
 }
 
+.lineup a:hover {
+      color: #586b81;
+      transform: scale(3);
+}
+
 footer {
       align: center;
       font-family: 'Teko', sans-serif;
