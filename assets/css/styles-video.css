@@ -142,7 +142,7 @@ aside {
 	grid-template-columns: 700px;
     grid-template-rows: repeat(13, 550px);
  	  gap: 10px 15px;
-	justify-items: center;
+	justify-content: center;
 }
 
 .pockets ul {
