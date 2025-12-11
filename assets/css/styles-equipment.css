@@ -164,11 +164,12 @@ p {
 }
 
 .list {
-      align: left;
+      align-content: left;
 }
 
 .list ul {
       font-family: 'Teko', sans-serif;
+      font-size: 30px;
 }
 
 footer {
