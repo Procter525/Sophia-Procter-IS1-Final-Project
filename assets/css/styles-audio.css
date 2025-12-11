@@ -140,6 +140,10 @@ aside {
 	justify-items: stretch;
 }
 
+.pockets ul {
+	font-family: 'Teko';
+}
+
 .box {
 	margin: 0 auto;
 	border-radius: 5px;
