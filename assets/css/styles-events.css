@@ -115,6 +115,11 @@ p {
   font-size: 35px;
 }
 
+.events ul {
+      align: left;
+      font-family: 'Teko';
+}
+
 .lineup ul {
       list-style: none;
       display: flex;
